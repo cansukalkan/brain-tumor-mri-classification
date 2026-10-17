@@ -1,0 +1,39 @@
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Environments
+env/
+venv/
+.venv/
+ENV/
+
+# Datasets
+*.zip
+*.tar.gz
+*.rar
+data/
+dataset/
+datasets/
+Training/
+Testing/
+BrainTumorDataset/
+
+# Model Checkpoints & Weights
+*.h5
+*.keras
+*.ckpt
+*.pt
+*.pth
+*.onnx
+models/
+weights/
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
